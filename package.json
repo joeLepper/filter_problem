@@ -1,0 +1,14 @@
+{
+  "name": "filter_problem",
+  "version": "1.0.0",
+  "description": "An interview problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Joe Lepper <josephlepper@gmail.com> (http://joelepper.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^3.5.0"
+  }
+}
